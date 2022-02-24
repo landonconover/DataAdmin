@@ -6,7 +6,7 @@ module.exports = {
       summary: `who lives and works in Orem UT for Utah Valley University as a Data Sys Admin.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `landonconover.blog`,
+    siteUrl: `www.dataadmin.dev`,
     social: {
       twitter: `DevLandon`,
     },
