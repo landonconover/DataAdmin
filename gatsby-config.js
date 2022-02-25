@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Data Admin`,
+    title: `DataAdmin.dev`,
     author: {
       name: `Landon Conover`,
       summary: `who lives and works in Orem UT for Utah Valley University as a Data Sys Admin.`,
