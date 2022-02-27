@@ -37,8 +37,8 @@ const Bio = () => {
         layout="fixed"
         formats={["auto", "webp", "avif"]}
         src="../images/LandonHeadShotSquare.png"
-        width={50}
-        height={50}
+        width={75}
+        height={75}
         quality={95}
         alt="Profile picture"
       />
