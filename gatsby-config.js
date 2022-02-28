@@ -134,7 +134,7 @@ module.exports = {
       options: {
         // Either `code` or `selfHostUrl` is required.
         // REQUIRED IF USING HOSTED GOATCOUNTER! https://[my_code].goatcounter.com
-        code: 'dataadmin',
+        code: 'https://dataadmin.goatcounter.com',
       },
     },
   ],
