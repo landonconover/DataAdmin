@@ -129,5 +129,13 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
     `gatsby-plugin-netlify-cms`,
+    {
+      resolve: `gatsby-plugin-goatcounter`,
+      options: {
+        // Either `code` or `selfHostUrl` is required.
+        // REQUIRED IF USING HOSTED GOATCOUNTER! https://[my_code].goatcounter.com
+        code: 'dataadmin',
+      },
+    },
   ],
 }
